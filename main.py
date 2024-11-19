@@ -19,7 +19,7 @@ def send_mail(to_address, subject, body, attachment_paths, school):
     html_body = f"""
     Dear {school} HR Team,<br><br>
 
-    I trust this email finds you well. My name is Vali Aliyev, and I am writing to express my interest in potential teaching opportunities at your school. As an experienced <b>IGCSE and A, AS-Level chemistry teacher</b> with expertise in Python and Excel training, I am eager about the prospect of contributing to your esteemed institution.<br><br>
+    I trust this email finds you well. My name is Ramazan Abiyev, and I am writing to express my interest in potential teaching opportunities at your school. As an experienced <b>IGCSE and A, AS-Level chemistry teacher</b> with expertise in Python and Excel training, I am eager about the prospect of contributing to your esteemed institution.<br><br>
 
     I have recently updated my CV and crafted a comprehensive cover letter, both of which I have attached for your reference. In my endeavor to ensure the most effective application process, I am reaching out to you directly. <b>If this email is not directed to the Human Resources department</b>, I kindly request your assistance in forwarding my application to the appropriate contact or providing the correct HR contact information.<br><br>
 
