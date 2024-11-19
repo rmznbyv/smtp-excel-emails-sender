@@ -8,8 +8,8 @@ import time
 def send_mail(to_address, subject, body, attachment_paths, school):
     smtp_server = 'smtp-mail.outlook.com'
     smtp_port = 587
-    sender_email = 'veli.a@trainer.ite.az'
-    sender_password = '199539_jimdo'
+    sender_email = 'yourmail'
+    sender_password = 'yourpass'
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
